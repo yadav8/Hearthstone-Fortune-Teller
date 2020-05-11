@@ -1,6 +1,6 @@
-package test;
+package minion;
 
-import minion.AnnoyOModule;
+import minion.tier4.AnnoyOModule;
 
 public class NameTest {
     public static void main(String[] args) {
