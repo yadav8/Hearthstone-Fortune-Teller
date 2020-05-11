@@ -2,8 +2,6 @@ const Promise = require("bluebird");
 const rp = require("request-promise");
 const fs = require('fs');
 
-const express = require("express");
-
 // Fill this in with your own creds
 const client_id = "";
 const client_secret = "";
