@@ -1,0 +1,27 @@
+{
+  "name": "get-all-hs-battlegrounds-cards",
+  "version": "0.0.1",
+  "description": "a simple app to get the HS battlegrounds card data and output it in JSON",
+  "main": "BlizzardCardMetadata.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadav8/Hearthstone-Fortune-Teller.git"
+  },
+  "author": "Himal King",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "express": "^4.16.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.2",
+    "simple-oauth2": "^2.2.1",
+    "throng": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/yadav8/Hearthstone-Fortune-Teller/issues"
+  },
+  "homepage": "https://github.com/yadav8/Hearthstone-Fortune-Teller#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

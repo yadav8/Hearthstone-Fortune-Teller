@@ -1,0 +1,343 @@
+[
+  [
+    {
+      "id": 56465,
+      "collectible": 0,
+      "slug": "56465-gentle-megasaur",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": 4,
+      "artistName": null,
+      "health": 4,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "Gentle Megasaur",
+      "text": "<b>Battlecry:</b> <b>Adapt</b> your&nbsp;Murlocs.",
+      "image": "",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f33bfec159aafde3d8890f13ec394a55c08014ed0418f99ecd0ebf4bd6f588c.png",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44b35454349e963de8365f170f6a98b566b27a5cc55dfd1a1edf1bfa149e84d7.jpg",
+      "keywordIds": [
+        8,
+        34
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "upgradeId": 59828,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6dcb0a9e03d9cb66827ab3ba517095b76c2386e8148c184da957a7893875cc40.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af62905c0fce76026a87de5be5f2f2b167950b18d9bc268630baa05a789e476a.png"
+      }
+    },
+    {
+      "id": 59687,
+      "collectible": 0,
+      "slug": "59687-ghastcoiler",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": null,
+      "artistName": null,
+      "health": 7,
+      "attack": 7,
+      "manaCost": 6,
+      "name": "Ghastcoiler",
+      "text": "<b>Deathrattle:</b> Summon 2 random <b>Deathrattle</b> minions.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7af2cf2f8885f1a5087b1adb08d49350a42e0e344b1c9769acbf1d907d0a1c6c.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afa1910142d3e6a8678e7bf406bfaf12eb64a39a3564635240365905f6889448.png",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb96d9f7b31a93c0d65e3a2eb8cd6485c5fcbd8c55acf770bd2e65391160e549.jpg",
+      "keywordIds": [
+        12
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "upgradeId": 58424,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/288a0ee4243deb7ee938a7bc85874233b4ded655eb80a149c7d422172a0e7693.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21c2a0475d5923b954f9171503b260cad71589889060f4cca2b1e2fd151a0f8b.png"
+      }
+    },
+    {
+      "id": 1791,
+      "collectible": 1,
+      "slug": "1791-maexxna",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 5,
+      "artistName": "Howard Lyon",
+      "health": 8,
+      "attack": 2,
+      "manaCost": 6,
+      "name": "Maexxna",
+      "text": "<b>Poisonous</b>",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36a9c4eefb7de13718f62f4cb09e4d3bf527252b0b1b776bb31e3b1e978104ea.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a67754f06b01d00c6c3aa1429e8603710a21bdaf6e9dc5a66b8506abe658d29d.png",
+      "flavorText": "Maexxna gets super mad when people introduce her as \"Maxina\" or \"Maxxy\".",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f9ead9baa41803bdf5128fdbc5d21a9b6a1d1f8d08c49da90cedcbd7713df58.jpg",
+      "keywordIds": [
+        32
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cc19748cb81578598eb039a470b6a2073ff1a2caf51295d545fb763d2b48f2d.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b72ba83674adb38323247b5eb4e79364ba1f6fb663e5ebcc7aabadc15e5a2d26.png"
+      }
+    },
+    {
+      "id": 60629,
+      "collectible": 0,
+      "slug": "60629-nadina-the-red",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": null,
+      "artistName": null,
+      "health": 4,
+      "attack": 7,
+      "manaCost": 6,
+      "name": "Nadina the Red",
+      "text": "<b>Deathrattle:</b> Give your Dragons <b>Divine Shield</b>.",
+      "image": "",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f6deb142f63578dc4ba860d9958b8c2371d376b65acb94911c8a1ed9f434cda.png",
+      "flavorText": "",
+      "cropImage": null,
+      "keywordIds": [
+        3,
+        12
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1305e40724e621c4b823297c5e056f46fc05c0e5c9ea4b90ff4da4d4e81b169a.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f6deb142f63578dc4ba860d9958b8c2371d376b65acb94911c8a1ed9f434cda.png"
+      }
+    },
+    {
+      "id": 2081,
+      "collectible": 1,
+      "slug": "2081-foe-reaper-000",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 9,
+      "attack": 6,
+      "manaCost": 8,
+      "name": "Foe Reaper 4000",
+      "text": "Also damages the minions next to whomever it attacks.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57b55e4453e0a7ffd4c9fcf797c59833a4eb40d5c4987bc630eab6d50c480d26.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6527bb3505de635cada9a1b7e85fc393742b6b7abf1c2367a541fc01af28868.png",
+      "flavorText": "Foe reaping is really not so different from harvest reaping, at the end of the day.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faaab6407d93337520f3b61eb2eb388eaa9a12193a3e3691d5f1dc19cae8e757.jpg",
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3573ad74e2227929ed53152a473e775646c06daac9d93c6724ce6cee7c941d91.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5941a9181e2a69a3b542b7c83795d5705e0371629e815ff522360e56fec9cfb.png"
+      }
+    },
+    {
+      "id": 61079,
+      "collectible": 0,
+      "slug": "61079-holy-mackerel",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": null,
+      "artistName": null,
+      "health": 4,
+      "attack": 8,
+      "manaCost": 8,
+      "name": "Holy Mackerel",
+      "text": "After another friendly minion loses <b>Divine Shield</b>, gain&nbsp;<b>Divine Shield</b>.",
+      "image": "",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/372bdcf57880cc0522d8c2bd6c6dcb26dbc8ecafbbac0e3ae104cfe3df89f8c2.png",
+      "flavorText": "",
+      "cropImage": null,
+      "keywordIds": [
+        3
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bf67f0df7e5a07a47266a9499f7e89cab738e0eae44d4e9ede0e30f1fd5cb66.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/372bdcf57880cc0522d8c2bd6c6dcb26dbc8ecafbbac0e3ae104cfe3df89f8c2.png"
+      }
+    },
+    {
+      "id": 61028,
+      "collectible": 0,
+      "slug": "61028-imp-mama",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": null,
+      "artistName": null,
+      "health": 10,
+      "attack": 6,
+      "manaCost": 8,
+      "name": "Imp Mama",
+      "text": "Whenever this minion takes damage, summon a random Demon and give it <b>Taunt</b>.",
+      "image": "",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8c46436d081df3cde86bed613649bd8344965ac6166d57d4b78f44431545c5a.png",
+      "flavorText": "",
+      "cropImage": null,
+      "childIds": [
+        61393
+      ],
+      "keywordIds": [
+        1
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "upgradeId": 61043,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3321b3abfcf40b2d8e84a3d7cf85394f2f78d83a13bd0e13fe017b467403abbd.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dac3c16989e52cae13a18b03f94f85cacd39699eb5998fd49a57ec17b6a7e131.png"
+      }
+    },
+    {
+      "id": 60630,
+      "collectible": 0,
+      "slug": "60630-kalecgos-arcane-aspect",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": null,
+      "artistName": null,
+      "health": 12,
+      "attack": 4,
+      "manaCost": 8,
+      "name": "Kalecgos, Arcane Aspect",
+      "text": "After you play a minion with <b>Battlecry</b>, give your Dragons +1/+1.",
+      "image": "",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b65658cfd8bb152538776203a8a466b85bd06581b6a817a2326edbbe6990b46f.png",
+      "flavorText": "",
+      "cropImage": null,
+      "childIds": [
+        60644
+      ],
+      "keywordIds": [
+        8
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "upgradeId": 60667,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a18769d2f7066055ed1ac02cdf18f08c73507b2f18b9bc5f1fe8740c3e14bf99.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20bc43e97dda1211e8520ff1b9ceebbd2733e2f51eca9e051603c680a647f572.png"
+      }
+    },
+    {
+      "id": 60036,
+      "collectible": 0,
+      "slug": "60036-mama-bear",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": 4,
+      "artistName": null,
+      "health": 5,
+      "attack": 5,
+      "manaCost": 8,
+      "name": "Mama Bear",
+      "text": "Whenever you summon a Beast, give it +5/+5.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1adaded4f8786a71acc6d5984aebd0aaaee5e6a7dd4738ed4b075f653df2c25f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b39df97de14cf3fa83b17ded5f6043a281ce12d9f954b4b6f6dc09ec494a37d.png",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c8d588ad8dff1e83b4c7226e7cc74d37f902842840128217bbe683aa1fd0e6d.jpg",
+      "childIds": [
+        60037
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "upgradeId": 60038,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af3df2f646df9e89be3a74e8f3d383397eecf32b329cf61f0b8178b4b5b0adf0.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b39df97de14cf3fa83b17ded5f6043a281ce12d9f954b4b6f6dc09ec494a37d.png"
+      }
+    },
+    {
+      "id": 60040,
+      "collectible": 0,
+      "slug": "60040-zapp-slywick",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": null,
+      "artistName": null,
+      "health": 10,
+      "attack": 7,
+      "manaCost": 8,
+      "name": "Zapp Slywick",
+      "text": "<b>Windfury</b> This minion always attacks the enemy minion with the lowest Attack.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91762348034e19ee5b3b877052e48951b1dcaf8a721018b153e7424629c81ae9.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbbd1a20e6340240ebaf8a58ddba73a90c44804e1f4ed0f43d9f5dec0f870aa1.png",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fda46961ba9f26020564c72fbf9c07206dfad3f1afc9ae44367cb856bef8aaef.jpg",
+      "keywordIds": [
+        11
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "upgradeId": 60041,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99306138286ea18cb2e3a703ed7bbb9785e890e30081f40319a4923fcaf4eb3e.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7de5805fe4520abddabd8470da10b9805a918f13818d67c175b05ebadf0b7382.png"
+      }
+    },
+    {
+      "id": 59935,
+      "collectible": 0,
+      "slug": "59935-kangors-apprentice",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1453,
+      "rarityId": 4,
+      "artistName": null,
+      "health": 6,
+      "attack": 3,
+      "manaCost": 9,
+      "name": "Kangor's Apprentice",
+      "text": "<b>Deathrattle</b>: Summon the first 2 friendly Mechs that died this combat.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ae654418490f99c009b259ee3907585fca59f1c2704e62ba929574ee2f72a84.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de8c934b0fbe85928dc7ab6839c76b782a89e5789a4734fe594669a353b2e6a8.png",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fda46961ba9f26020564c72fbf9c07206dfad3f1afc9ae44367cb856bef8aaef.jpg",
+      "keywordIds": [
+        12
+      ],
+      "battlegrounds": {
+        "tier": 6,
+        "hero": false,
+        "upgradeId": 59976,
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/007d48b9e9a73441ba9a9bf0e815263b1f4f3881977d61712e28ea087e956a8a.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbc69d05e867260884efc8309d38181952fc455b5f4af34c0feb717fac51c0fa.png"
+      }
+    }
+  ]
+]
