@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1000,
+        "bnet_id": 40426,
+        "name": "Alleycat",
+        "attack": 1,
+        "health": 1,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "BEAST",
+        "classname": "Alleycat"
+    },
+    {
+        "id": 1001,
+        "bnet_id": 985,
+        "name": "Dire Wolf Alpha",
+        "attack": 2,
+        "health": 2,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "BEAST",
+        "classname": "DireWolfAlpha"
+    },
+    {
+        "id": 1002,
+        "bnet_id": 60628,
+        "name": "Dragonspawn Lieutenant",
+        "attack": 2,
+        "health": 3,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "DRAGON",
+        "classname": "DragonspawnLieutenant"
+    },
+    {
+        "id": 1003,
+        "bnet_id": 56112,
+        "name": "Fiendish Servant",
+        "attack": 2,
+        "health": 1,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "DEMON",
+        "classname": "FiendishServant"
+    },
+    {
+        "id": 1004,
+        "bnet_id": 48886,
+        "name": "Mecharoo",
+        "attack": 1,
+        "health": 1,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "MECH",
+        "classname": "Mecharoo"
+    },
+    {
+        "id": 1005,
+        "bnet_id": 60055,
+        "name": "Micro Machine",
+        "attack": 1,
+        "health": 2,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "MECH",
+        "classname": "MicroMachine"
+    },
+    {
+        "id": 1006,
+        "bnet_id": 475,
+        "name": "Murloc Tidecaller",
+        "attack": 1,
+        "health": 2,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "MURLOC",
+        "classname": "MurlocTidecaller"
+    },
+    {
+        "id": 1007,
+        "bnet_id": 976,
+        "name": "Murloc Tidehunter",
+        "attack": 2,
+        "health": 1,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "MURLOC",
+        "classname": "MurlocTidehunter"
+    },
+    {
+        "id": 1008,
+        "bnet_id": 59968,
+        "name": "Red Whelp",
+        "attack": 1,
+        "health": 2,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "DRAGON",
+        "classname": "RedWhelp"
+    },
+    {
+        "id": 1009,
+        "bnet_id": 42467,
+        "name": "Righteous Protector",
+        "attack": 1,
+        "health": 1,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "NEUTRAL",
+        "classname": "RighteousProtector"
+    },
+    {
+        "id": 1010,
+        "bnet_id": 41245,
+        "name": "Rockpool Hunter",
+        "attack": 2,
+        "health": 3,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "MURLOC",
+        "classname": "RockpoolHunter"
+    },
+    {
+        "id": 1011,
+        "bnet_id": 38740,
+        "name": "Selfless Hero",
+        "attack": 2,
+        "health": 1,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "NEUTRAL",
+        "classname": "SelflessHero"
+    },
+    {
+        "id": 1012,
+        "bnet_id": 43121,
+        "name": "Vulgar Homunculus",
+        "attack": 2,
+        "health": 4,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "DEMON",
+        "classname": "VulgarHomunculus"
+    },
+    {
+        "id": 1013,
+        "bnet_id": 59670,
+        "name": "Wrath Weaver",
+        "attack": 1,
+        "health": 1,
+        "tier": 1,
+        "tier_package": "tier1",
+        "tribe": "NEUTRAL",
+        "classname": "WrathWeaver"
+    }
+]

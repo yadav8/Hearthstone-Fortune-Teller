@@ -1,0 +1,178 @@
+[
+    {
+        "id": 4000,
+        "bnet_id": 48993,
+        "name": "Annoy-o-Module",
+        "attack": 2,
+        "health": 4,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "MECH",
+        "classname": "AnnoyoModule"
+    },
+    {
+        "id": 4001,
+        "bnet_id": 45392,
+        "name": "Bolvar, Fireblood",
+        "attack": 1,
+        "health": 7,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "NEUTRAL",
+        "classname": "BolvarFireblood"
+    },
+    {
+        "id": 4002,
+        "bnet_id": 43358,
+        "name": "Cave Hydra",
+        "attack": 2,
+        "health": 4,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "BEAST",
+        "classname": "CaveHydra"
+    },
+    {
+        "id": 4003,
+        "bnet_id": 42442,
+        "name": "Cobalt Scalebane",
+        "attack": 5,
+        "health": 5,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "DRAGON",
+        "classname": "CobaltScalebane"
+    },
+    {
+        "id": 4004,
+        "bnet_id": 763,
+        "name": "Defender of Argus",
+        "attack": 2,
+        "health": 3,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "NEUTRAL",
+        "classname": "DefenderofArgus"
+    },
+    {
+        "id": 4005,
+        "bnet_id": 61072,
+        "name": "Drakonid Enforcer",
+        "attack": 3,
+        "health": 6,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "DRAGON",
+        "classname": "DrakonidEnforcer"
+    },
+    {
+        "id": 4006,
+        "bnet_id": 2068,
+        "name": "Floating Watcher",
+        "attack": 4,
+        "health": 4,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "DEMON",
+        "classname": "FloatingWatcher"
+    },
+    {
+        "id": 4007,
+        "bnet_id": 60498,
+        "name": "Herald of Flame",
+        "attack": 5,
+        "health": 6,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "DRAGON",
+        "classname": "HeraldofFlame"
+    },
+    {
+        "id": 4008,
+        "bnet_id": 1992,
+        "name": "Iron Sensei",
+        "attack": 2,
+        "health": 2,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "MECH",
+        "classname": "IronSensei"
+    },
+    {
+        "id": 4009,
+        "bnet_id": 49169,
+        "name": "Mechano-Egg",
+        "attack": 0,
+        "health": 5,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "MECH",
+        "classname": "MechanoEgg"
+    },
+    {
+        "id": 4010,
+        "bnet_id": 39269,
+        "name": "Menagerie Magician",
+        "attack": 4,
+        "health": 4,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "NEUTRAL",
+        "classname": "MenagerieMagician"
+    },
+    {
+        "id": 4011,
+        "bnet_id": 1261,
+        "name": "Savannah Highmane",
+        "attack": 6,
+        "health": 5,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "BEAST",
+        "classname": "SavannahHighmane"
+    },
+    {
+        "id": 4012,
+        "bnet_id": 48100,
+        "name": "Security Rover",
+        "attack": 2,
+        "health": 6,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "MECH",
+        "classname": "SecurityRover"
+    },
+    {
+        "id": 4013,
+        "bnet_id": 54835,
+        "name": "Siegebreaker",
+        "attack": 5,
+        "health": 8,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "DEMON",
+        "classname": "Siegebreaker"
+    },
+    {
+        "id": 4014,
+        "bnet_id": 52277,
+        "name": "Toxfin",
+        "attack": 1,
+        "health": 2,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "MURLOC",
+        "classname": "Toxfin"
+    },
+    {
+        "id": 4015,
+        "bnet_id": 40641,
+        "name": "Virmen Sensei",
+        "attack": 4,
+        "health": 5,
+        "tier": 4,
+        "tier_package": "tier4",
+        "tribe": "NEUTRAL",
+        "classname": "VirmenSensei"
+    }
+]

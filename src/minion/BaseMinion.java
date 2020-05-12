@@ -5,5 +5,5 @@ import minion.identifiers.Tribe;
 
 public abstract class BaseMinion {
     public int attack;
-    public int defence;
+    public int health;
 }

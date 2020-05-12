@@ -1,0 +1,123 @@
+[
+    {
+        "id": 6000,
+        "bnet_id": 2081,
+        "name": "Foe Reaper 4000",
+        "attack": 6,
+        "health": 9,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "MECH",
+        "classname": "FoeReaper"
+    },
+    {
+        "id": 6001,
+        "bnet_id": 56465,
+        "name": "Gentle Megasaur",
+        "attack": 5,
+        "health": 4,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "BEAST",
+        "classname": "GentleMegasaur"
+    },
+    {
+        "id": 6002,
+        "bnet_id": 59687,
+        "name": "Ghastcoiler",
+        "attack": 7,
+        "health": 7,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "BEAST",
+        "classname": "Ghastcoiler"
+    },
+    {
+        "id": 6003,
+        "bnet_id": 61079,
+        "name": "Holy Mackerel",
+        "attack": 8,
+        "health": 4,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "MURLOC",
+        "classname": "HolyMackerel"
+    },
+    {
+        "id": 6004,
+        "bnet_id": 61028,
+        "name": "Imp Mama",
+        "attack": 6,
+        "health": 10,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "DEMON",
+        "classname": "ImpMama"
+    },
+    {
+        "id": 6005,
+        "bnet_id": 60630,
+        "name": "Kalecgos, Arcane Aspect",
+        "attack": 4,
+        "health": 12,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "DRAGON",
+        "classname": "KalecgosArcaneAspect"
+    },
+    {
+        "id": 6006,
+        "bnet_id": 59935,
+        "name": "Kangor's Apprentice",
+        "attack": 3,
+        "health": 6,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "NEUTRAL",
+        "classname": "KangorsApprentice"
+    },
+    {
+        "id": 6007,
+        "bnet_id": 1791,
+        "name": "Maexxna",
+        "attack": 2,
+        "health": 8,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "BEAST",
+        "classname": "Maexxna"
+    },
+    {
+        "id": 6008,
+        "bnet_id": 60036,
+        "name": "Mama Bear",
+        "attack": 5,
+        "health": 5,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "BEAST",
+        "classname": "MamaBear"
+    },
+    {
+        "id": 6009,
+        "bnet_id": 60629,
+        "name": "Nadina the Red",
+        "attack": 7,
+        "health": 4,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "NEUTRAL",
+        "classname": "NadinatheRed"
+    },
+    {
+        "id": 6010,
+        "bnet_id": 60040,
+        "name": "Zapp Slywick",
+        "attack": 7,
+        "health": 10,
+        "tier": 6,
+        "tier_package": "tier6",
+        "tribe": "NEUTRAL",
+        "classname": "ZappSlywick"
+    }
+]

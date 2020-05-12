@@ -1,0 +1,211 @@
+[
+    {
+        "id": 3000,
+        "bnet_id": 60558,
+        "name": "Bronze Warden",
+        "attack": 2,
+        "health": 1,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "DRAGON",
+        "classname": "BronzeWarden"
+    },
+    {
+        "id": 3001,
+        "bnet_id": 453,
+        "name": "Coldlight Seer",
+        "attack": 2,
+        "health": 3,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "MURLOC",
+        "classname": "ColdlightSeer"
+    },
+    {
+        "id": 3002,
+        "bnet_id": 2518,
+        "name": "Crowd Favorite",
+        "attack": 4,
+        "health": 4,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "NEUTRAL",
+        "classname": "CrowdFavorite"
+    },
+    {
+        "id": 3003,
+        "bnet_id": 40391,
+        "name": "Crystalweaver",
+        "attack": 5,
+        "health": 4,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "NEUTRAL",
+        "classname": "Crystalweaver"
+    },
+    {
+        "id": 3004,
+        "bnet_id": 61930,
+        "name": "Deflect-o-Bot",
+        "attack": 3,
+        "health": 2,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "MECH",
+        "classname": "DeflectoBot"
+    },
+    {
+        "id": 3005,
+        "bnet_id": 56393,
+        "name": "Felfin Navigator",
+        "attack": 4,
+        "health": 4,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "MURLOC",
+        "classname": "FelfinNavigator"
+    },
+    {
+        "id": 3006,
+        "bnet_id": 60552,
+        "name": "Hangry Dragon",
+        "attack": 4,
+        "health": 4,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "DRAGON",
+        "classname": "HangryDragon"
+    },
+    {
+        "id": 3007,
+        "bnet_id": 1003,
+        "name": "Houndmaster",
+        "attack": 4,
+        "health": 3,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "NEUTRAL",
+        "classname": "Houndmaster"
+    },
+    {
+        "id": 3008,
+        "bnet_id": 2288,
+        "name": "Imp Gang Boss",
+        "attack": 2,
+        "health": 4,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "DEMON",
+        "classname": "ImpGangBoss"
+    },
+    {
+        "id": 3009,
+        "bnet_id": 38734,
+        "name": "Infested Wolf",
+        "attack": 3,
+        "health": 3,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "BEAST",
+        "classname": "InfestedWolf"
+    },
+    {
+        "id": 3010,
+        "bnet_id": 52502,
+        "name": "Khadgar",
+        "attack": 2,
+        "health": 2,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "NEUTRAL",
+        "classname": "Khadgar"
+    },
+    {
+        "id": 3011,
+        "bnet_id": 59940,
+        "name": "Pack Leader",
+        "attack": 3,
+        "health": 3,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "NEUTRAL",
+        "classname": "PackLeader"
+    },
+    {
+        "id": 3012,
+        "bnet_id": 60048,
+        "name": "Piloted Shredder",
+        "attack": 4,
+        "health": 3,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "MECH",
+        "classname": "PilotedShredder"
+    },
+    {
+        "id": 3013,
+        "bnet_id": 48536,
+        "name": "Replicating Menace",
+        "attack": 3,
+        "health": 1,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "MECH",
+        "classname": "ReplicatingMenace"
+    },
+    {
+        "id": 3014,
+        "bnet_id": 2023,
+        "name": "Screwjank Clunker",
+        "attack": 2,
+        "health": 5,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "MECH",
+        "classname": "ScrewjankClunker"
+    },
+    {
+        "id": 3015,
+        "bnet_id": 57742,
+        "name": "Shifter Zerus",
+        "attack": 1,
+        "health": 1,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "NEUTRAL",
+        "classname": "ShifterZerus"
+    },
+    {
+        "id": 3016,
+        "bnet_id": 59660,
+        "name": "Soul Juggler",
+        "attack": 3,
+        "health": 3,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "NEUTRAL",
+        "classname": "SoulJuggler"
+    },
+    {
+        "id": 3017,
+        "bnet_id": 962,
+        "name": "The Beast",
+        "attack": 9,
+        "health": 7,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "BEAST",
+        "classname": "TheBeast"
+    },
+    {
+        "id": 3018,
+        "bnet_id": 60626,
+        "name": "Twilight Emissary",
+        "attack": 4,
+        "health": 4,
+        "tier": 3,
+        "tier_package": "tier3",
+        "tribe": "DRAGON",
+        "classname": "TwilightEmissary"
+    }
+]

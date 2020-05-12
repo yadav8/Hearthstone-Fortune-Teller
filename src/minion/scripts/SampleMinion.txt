@@ -1,0 +1,17 @@
+package minion.$TIER_PACKAGE;
+
+import minion.BaseMinion;
+import minion.identifiers.Tribe;
+import static minion.identifiers.Tribe.*;
+
+public class $CLASSNAME extends BaseMinion {
+    public static int id = $ID;    // Internal database ID
+    public static Tribe tribe = $TRIBE;
+    public static int tier = $TIER;
+    public static String Name = "$NAME";
+
+    public $CLASSNAME() {
+        this.attack = $ATTACK;
+        this.health = $HEALTH;
+    }
+}

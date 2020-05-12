@@ -1,0 +1,167 @@
+[
+    {
+        "id": 5000,
+        "bnet_id": 59714,
+        "name": "Annihilan Battlemaster",
+        "attack": 3,
+        "health": 1,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "DEMON",
+        "classname": "AnnihilanBattlemaster"
+    },
+    {
+        "id": 5001,
+        "bnet_id": 1915,
+        "name": "Baron Rivendare",
+        "attack": 1,
+        "health": 7,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "NEUTRAL",
+        "classname": "BaronRivendare"
+    },
+    {
+        "id": 5002,
+        "bnet_id": 2949,
+        "name": "Brann Bronzebeard",
+        "attack": 2,
+        "health": 4,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "NEUTRAL",
+        "classname": "BrannBronzebeard"
+    },
+    {
+        "id": 5003,
+        "bnet_id": 59955,
+        "name": "Goldrinn, the Great Wolf",
+        "attack": 4,
+        "health": 4,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "BEAST",
+        "classname": "GoldrinntheGreatWolf"
+    },
+    {
+        "id": 5004,
+        "bnet_id": 49973,
+        "name": "Ironhide Direhorn",
+        "attack": 7,
+        "health": 7,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "BEAST",
+        "classname": "IronhideDirehorn"
+    },
+    {
+        "id": 5005,
+        "bnet_id": 2074,
+        "name": "Junkbot",
+        "attack": 1,
+        "health": 5,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "MECH",
+        "classname": "Junkbot"
+    },
+    {
+        "id": 5006,
+        "bnet_id": 60247,
+        "name": "King Bagurgle",
+        "attack": 6,
+        "health": 3,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "MURLOC",
+        "classname": "KingBagurgle"
+    },
+    {
+        "id": 5007,
+        "bnet_id": 59707,
+        "name": "Lightfang Enforcer",
+        "attack": 2,
+        "health": 2,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "NEUTRAL",
+        "classname": "LightfangEnforcer"
+    },
+    {
+        "id": 5008,
+        "bnet_id": 1986,
+        "name": "Mal'Ganis",
+        "attack": 9,
+        "health": 7,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "DEMON",
+        "classname": "MalGanis"
+    },
+    {
+        "id": 5009,
+        "bnet_id": 60637,
+        "name": "Murozond",
+        "attack": 5,
+        "health": 5,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "DRAGON",
+        "classname": "Murozond"
+    },
+    {
+        "id": 5010,
+        "bnet_id": 60028,
+        "name": "Primalfin Lookout",
+        "attack": 3,
+        "health": 2,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "MURLOC",
+        "classname": "PrimalfinLookout"
+    },
+    {
+        "id": 5011,
+        "bnet_id": 60561,
+        "name": "Razorgore, the Untamed",
+        "attack": 2,
+        "health": 4,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "DRAGON",
+        "classname": "RazorgoretheUntamed"
+    },
+    {
+        "id": 5012,
+        "bnet_id": 59682,
+        "name": "Sneed's Old Shredder",
+        "attack": 5,
+        "health": 7,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "MECH",
+        "classname": "SneedsOldShredder"
+    },
+    {
+        "id": 5013,
+        "bnet_id": 43022,
+        "name": "Strongshell Scavenger",
+        "attack": 2,
+        "health": 3,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "NEUTRAL",
+        "classname": "StrongshellScavenger"
+    },
+    {
+        "id": 5014,
+        "bnet_id": 46056,
+        "name": "Voidlord",
+        "attack": 3,
+        "health": 9,
+        "tier": 5,
+        "tier_package": "tier5",
+        "tribe": "DEMON",
+        "classname": "Voidlord"
+    }
+]

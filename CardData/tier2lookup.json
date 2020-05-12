@@ -1,0 +1,189 @@
+[
+    {
+        "id": 2000,
+        "bnet_id": 61029,
+        "name": "Glyph Guardian",
+        "attack": 2,
+        "health": 4,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "DRAGON",
+        "classname": "GlyphGuardian"
+    },
+    {
+        "id": 2001,
+        "bnet_id": 778,
+        "name": "Harvest Golem",
+        "attack": 2,
+        "health": 3,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "MECH",
+        "classname": "HarvestGolem"
+    },
+    {
+        "id": 2002,
+        "bnet_id": 59937,
+        "name": "Imprisoner",
+        "attack": 3,
+        "health": 3,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "DEMON",
+        "classname": "Imprisoner"
+    },
+    {
+        "id": 2003,
+        "bnet_id": 49279,
+        "name": "Kaboom Bot",
+        "attack": 2,
+        "health": 2,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "MECH",
+        "classname": "KaboomBot"
+    },
+    {
+        "id": 2004,
+        "bnet_id": 39481,
+        "name": "Kindly Grandmother",
+        "attack": 1,
+        "health": 1,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "BEAST",
+        "classname": "KindlyGrandmother"
+    },
+    {
+        "id": 2005,
+        "bnet_id": 2016,
+        "name": "Metaltooth Leaper",
+        "attack": 3,
+        "health": 3,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "MECH",
+        "classname": "MetaltoothLeaper"
+    },
+    {
+        "id": 2006,
+        "bnet_id": 1063,
+        "name": "Murloc Warleader",
+        "attack": 3,
+        "health": 3,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "MURLOC",
+        "classname": "MurlocWarleader"
+    },
+    {
+        "id": 2007,
+        "bnet_id": 59186,
+        "name": "Nathrezim Overseer",
+        "attack": 2,
+        "health": 3,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "DEMON",
+        "classname": "NathrezimOverseer"
+    },
+    {
+        "id": 2008,
+        "bnet_id": 736,
+        "name": "Old Murk-Eye",
+        "attack": 2,
+        "health": 4,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "MURLOC",
+        "classname": "OldMurkEye"
+    },
+    {
+        "id": 2009,
+        "bnet_id": 60122,
+        "name": "Pogo-Hopper",
+        "attack": 1,
+        "health": 1,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "MECH",
+        "classname": "PogoHopper"
+    },
+    {
+        "id": 2010,
+        "bnet_id": 40428,
+        "name": "Rat Pack",
+        "attack": 2,
+        "health": 2,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "BEAST",
+        "classname": "RatPack"
+    },
+    {
+        "id": 2011,
+        "bnet_id": 1281,
+        "name": "Scavenging Hyena",
+        "attack": 2,
+        "health": 2,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "BEAST",
+        "classname": "ScavengingHyena"
+    },
+    {
+        "id": 2012,
+        "bnet_id": 38797,
+        "name": "Spawn of N'Zoth",
+        "attack": 2,
+        "health": 2,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "NEUTRAL",
+        "classname": "SpawnofNZoth"
+    },
+    {
+        "id": 2013,
+        "bnet_id": 60621,
+        "name": "Steward of Time",
+        "attack": 3,
+        "health": 4,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "DRAGON",
+        "classname": "StewardofTime"
+    },
+    {
+        "id": 2014,
+        "bnet_id": 1808,
+        "name": "Unstable Ghoul",
+        "attack": 1,
+        "health": 3,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "NEUTRAL",
+        "classname": "UnstableGhoul"
+    },
+    {
+        "id": 2015,
+        "bnet_id": 60559,
+        "name": "Waxrider Togwaggle",
+        "attack": 1,
+        "health": 2,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "NEUTRAL",
+        "classname": "WaxriderTogwaggle"
+    },
+    {
+        "id": 2016,
+        "bnet_id": 39839,
+        "name": "Zoobot",
+        "attack": 3,
+        "health": 3,
+        "tier": 2,
+        "tier_package": "tier2",
+        "tribe": "MECH",
+        "classname": "Zoobot"
+    }
+]

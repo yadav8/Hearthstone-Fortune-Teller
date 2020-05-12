@@ -1,10 +1,10 @@
-package minion;
+package minion.test;
 
-import minion.tier4.AnnoyOModule;
+import minion.tier4.*;
 
 public class NameTest {
     public static void main(String[] args) {
-        AnnoyOModule aom = new AnnoyOModule();
+        AnnoyoModule aom = new AnnoyoModule();
         System.out.println(aom.Name);
     }
 }
